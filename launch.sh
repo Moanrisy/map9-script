@@ -1,9 +1,6 @@
 #!/bin/bash
-     #
-          # if we land here it exited
-sleep 50
+sleep 13
 amor &
 blueman-applet &
 dropbox &
-chromium
-
+chromium -restore-last-session

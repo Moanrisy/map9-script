@@ -1,4 +1,4 @@
-- [README](#org171801b)
+- [List script](#org171801b)
   - [feha / fehb / fehc.sh](#org4690adc)
   - [launch.sh](#orgd748914)
   - [left.sh](#orgd459169)
@@ -9,7 +9,7 @@
 
 <a id="org171801b"></a>
 
-# README
+# List script
 
 
 <a id="org4690adc"></a>

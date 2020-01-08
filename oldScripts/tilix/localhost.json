@@ -1,0 +1,51 @@
+{
+    "child": {
+        "child1": {
+            "child1": {
+                "directory": "\/srv\/http\/skripsi\/ibu-api",
+                "height": 531,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "50868ea5-3006-46e7-afbd-5222a3be6d77",
+                "width": 952
+            },
+            "child2": {
+                "directory": "\/srv\/http\/skripsi\/ibu-api",
+                "height": 531,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "f7a2a14e-9f1d-4d20-95e1-3718361ae657",
+                "width": 951
+            },
+            "orientation": 0,
+            "position": 50,
+            "ratio": 0.5,
+            "type": "Paned"
+        },
+        "child2": {
+            "directory": "\/srv\/http\/gcs\/test-json-server",
+            "height": 531,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "7eb7738b-a3fa-4ecc-b19e-aa304fc2f986",
+            "width": 1904
+        },
+        "orientation": 1,
+        "position": 49,
+        "ratio": 0.499529633113828808,
+        "type": "Paned"
+    },
+    "height": 1063,
+    "name": "localhost",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "acbc8bd4-0f2a-49b6-b1e6-d4c180e84c0c",
+    "version": "1.0",
+    "width": 1904
+}

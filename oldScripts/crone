@@ -1,0 +1,3 @@
+* * * * * /bin/echo "foobar" >> ~/your-file-name.txt 
+* * * * * /bin/echo "foobar" >> ~/ok.txt 
+0 */6 * * * ~/Scripts/./agenda.sh

@@ -1,0 +1,4 @@
+#!/bin/sh 
+tmux new -d -s my-session 'echo window-1 pane-1; sleep 8' \; \
+            new-window -d 'echo window-2;        sleep 4' \; next-window \; \
+                attach \;

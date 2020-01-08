@@ -1,0 +1,35 @@
+{
+    "child": {
+        "child1": {
+            "directory": "\/home\/q",
+            "height": 375,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "a4effa77-5f1d-4802-bc29-c46543979a53",
+            "width": 717
+        },
+        "child2": {
+            "directory": "\/home\/q",
+            "height": 375,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "c0644f7c-4955-4fed-97fd-e7f5b088dd0b",
+            "width": 717
+        },
+        "orientation": 1,
+        "position": 49,
+        "ratio": 0.499334221038615189,
+        "type": "Paned"
+    },
+    "height": 751,
+    "name": "de",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "de955290-bead-4d74-9488-ef9243d9c9c1",
+    "version": "1.0",
+    "width": 717
+}

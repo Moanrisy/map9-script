@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exo-open ~/.local/share/applications/aur.desktop
